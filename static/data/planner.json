@@ -969,6 +969,98 @@
 				{
 					"steps": [
 					{
+						"notes":"You can run up to 10 per hr.",
+						"bosses": [
+						{
+							"ID": 1175,
+							"epic": true,
+							"icon": "ability_mount_drake_twilight",
+							"itemId": 163584,
+							"mount": "Twilight Avenger",
+							"name": "",
+							"spellid": 279466
+							},
+							{
+							"ID": 1169,
+							"epic": true,
+							"icon": "inv_misc_fish_70",
+							"itemId": 163585,
+							"mount": "Surf Jelly",
+							"name": "",
+							"spellid": 278979
+							},
+							{
+							"ID": 1176,
+							"epic": true,
+							"icon": "inv_misc_pet_pandaren_yeti",
+							"itemId": 163583,
+							"mount": "Craghorn Chasm-Leaper",
+							"name": "",
+							"spellid": 279467
+							},
+							{
+							"ID": 993,
+							"epic": true,
+							"icon": "inv_parrotmount_green",
+							"itemId": 163586,
+							"mount": "Squawks",
+							"name": "",
+							"spellid": 254811
+							},
+							{
+							"ID": 1178,
+							"epic": true,
+							"icon": "achievement_moguraid_01",
+							"itemId": 163582,
+							"mount": "Qinsho's Eternal Hound",
+							"name": "",
+							"spellid": 279469
+							},
+							{
+							"ID": 1209,
+							"epic": true,
+							"icon": "inv_misc_moosehoof_black",
+							"itemId": 166470,
+							"mount": "Stonehide Elderhorn",
+							"name": "",
+							"spellid": 288712
+							},
+						{
+							"ID": "1211",
+							"epic": true,
+							"icon": "ability_hunter_pet_bat",
+							"itemId": 166468,
+							"mount": "Bloodgorged Hunter",
+							"name": "",
+							"spellId": 288720
+						},
+						{
+							"ID": 1212,
+							"epic": true,
+							"icon": "inv_stormdragonmount2_fel",
+							"itemId": 166467,
+							"mount": "Island Thunderscale",
+							"name": "",
+							"spellid": 288721
+							},
+							{
+							"ID": 1213,
+							"epic": true,
+							"icon": "ability_mount_undeadhorse",
+							"itemId": 166466,
+							"mount": "Risen Mare",
+							"name": "",
+							"spellid": 288722
+							}
+						],
+						"title": "Run Island Expedition"
+					}
+					],
+					"title": "Visit Flynn Fairwind or Captain Rez'okun"
+				},
+				{
+					"steps": [
+					{
 						"bosses": [
 						{
 							"ID": "995",
@@ -984,7 +1076,7 @@
 						"title": "Run Freehold"
 					}
 					],
-					"title": "Walk to Tiragarde Sound"
+					"title": "Travel to Tiragarde Sound"
 				},
 				{
 					"steps": [
@@ -1004,7 +1096,7 @@
 						"title": "Run King's Rest"
 					}
 					],
-					"title": "Walk to Zuldazar"
+					"title": "Travel to Zuldazar"
 				},
 				{
 					"steps": [
@@ -1024,7 +1116,7 @@
 						"title": "Run The Underrot"
 					}
 					],
-					"title": "Walk to Nazmir"
+					"title": "Travel to Nazmir"
 				}
 				],
 				"title": "Portal to Zandalar / Kul'Tiras"
