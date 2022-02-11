@@ -2,10 +2,9 @@
 	"steps": [
 	  {
 		"capital": true,
-		"notes": "Make sure you have hearth set to shrine",
+		"notes": "Set your hearth here to save time",
 		"steps": [
 		  {
-			"finalStep": "Hearthstone back to shrine",
 			"steps": [
 			  {
 				"bosses": [
@@ -105,214 +104,218 @@
 			"title": "Portal to Uldum"
 		  },
 		  {
-			"finalStep": "Hearthstone back to shrine",
-			"steps": [
+			  "capital": true,
+			  "steps":[
 			  {
 				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "363",
-						"epic": true,
-						"icon": "ability_mount_pegasus",
-						"itemId": 50818,
-						"mount": "Invincible's Reins",
-						"name": "The Lich King",
-						"note": "Heroic 25 only",
-						"spellId": 72286
-					  }
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "363",
+							"epic": true,
+							"icon": "ability_mount_pegasus",
+							"itemId": 50818,
+							"mount": "Invincible's Reins",
+							"name": "The Lich King",
+							"note": "Heroic 25 only",
+							"spellId": 72286
+						}
+						],
+						"title": "Run Icecrown Citadel"
+					}
 					],
-					"title": "Run Icecrown Citadel"
-				  }
-				],
-				"title": "Fly to Icecrown"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "286",
-						"isAlliance": true,
-						"epic": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 43959,
-						"mount": "Grand Black War Mammoth",
-						"name": "Koralon"
-					  },
-					  {
-						"ID": "286",
-						"isAlliance": true,
-						"epic": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 43959,
-						"mount": "Grand Black War Mammoth",
-						"name": "Toravon"
-					  },
-					  {
-						"ID": "286",
-						"isAlliance": true,
-						"epic": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 43959,
-						"mount": "Grand Black War Mammoth",
-						"name": "Archavon"
-					  },
-					  {
-						"ID": "286",
-						"isAlliance": true,
-						"epic": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 43959,
-						"mount": "Grand Black War Mammoth",
-						"name": "Emalon"
-					  },
-					  {
-						"ID": "287",
-						"epic": true,
-						"isHorde": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 44083,
-						"mount": "Grand Black War Mammoth",
-						"name": "Koralon"
-					  },
-					  {
-						"ID": "287",
-						"epic": true,
-						"isHorde": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 44083,
-						"mount": "Grand Black War Mammoth",
-						"name": "Toravon"
-					  },
-					  {
-						"ID": "287",
-						"epic": true,
-						"isHorde": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 44083,
-						"mount": "Grand Black War Mammoth",
-						"name": "Archavon"
-					  },
-					  {
-						"ID": "287",
-						"epic": true,
-						"isHorde": true,
-						"icon": "ability_mount_mammoth_black",
-						"itemId": 44083,
-						"mount": "Grand Black War Mammoth",
-						"name": "Emalon"
-					  }
+					"title": "Fly to Icecrown"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "286",
+							"isAlliance": true,
+							"epic": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 43959,
+							"mount": "Grand Black War Mammoth",
+							"name": "Koralon"
+						},
+						{
+							"ID": "286",
+							"isAlliance": true,
+							"epic": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 43959,
+							"mount": "Grand Black War Mammoth",
+							"name": "Toravon"
+						},
+						{
+							"ID": "286",
+							"isAlliance": true,
+							"epic": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 43959,
+							"mount": "Grand Black War Mammoth",
+							"name": "Archavon"
+						},
+						{
+							"ID": "286",
+							"isAlliance": true,
+							"epic": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 43959,
+							"mount": "Grand Black War Mammoth",
+							"name": "Emalon"
+						},
+						{
+							"ID": "287",
+							"epic": true,
+							"isHorde": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 44083,
+							"mount": "Grand Black War Mammoth",
+							"name": "Koralon"
+						},
+						{
+							"ID": "287",
+							"epic": true,
+							"isHorde": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 44083,
+							"mount": "Grand Black War Mammoth",
+							"name": "Toravon"
+						},
+						{
+							"ID": "287",
+							"epic": true,
+							"isHorde": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 44083,
+							"mount": "Grand Black War Mammoth",
+							"name": "Archavon"
+						},
+						{
+							"ID": "287",
+							"epic": true,
+							"isHorde": true,
+							"icon": "ability_mount_mammoth_black",
+							"itemId": 44083,
+							"mount": "Grand Black War Mammoth",
+							"name": "Emalon"
+						}
+						],
+						"title": "Run Vault of Archavon"
+					}
 					],
-					"title": "Run Vault of Archavon"
-				  }
-				],
-				"title": "Fly to Wintergrasp"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "246",
-						"epic": true,
-						"icon": "ability_mount_drake_azure",
-						"itemId": 43952,
-						"mount": "Azure Drake",
-						"name": "Malygos",
-						"spellId": 59567
-					  },
-					  {
-						"ID": "247",
-						"epic": true,
-						"icon": "ability_mount_drake_blue",
-						"itemId": 43953,
-						"mount": "Blue Drake",
-						"name": "Malygos",
-						"spellId": 59568
-					  }
+					"title": "Fly to Wintergrasp"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "246",
+							"epic": true,
+							"icon": "ability_mount_drake_azure",
+							"itemId": 43952,
+							"mount": "Azure Drake",
+							"name": "Malygos",
+							"spellId": 59567
+						},
+						{
+							"ID": "247",
+							"epic": true,
+							"icon": "ability_mount_drake_blue",
+							"itemId": 43953,
+							"mount": "Blue Drake",
+							"name": "Malygos",
+							"spellId": 59568
+						}
+						],
+						"title": "Run Eye of Eternity"
+					}
 					],
-					"title": "Run Eye of Eternity"
-				  }
-				],
-				"title": "Fly to Coldarra"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "253",
-						"epic": true,
-						"icon": "ability_mount_drake_twilight",
-						"itemId": 43986,
-						"mount": "Black Drake",
-						"name": "Sartharion",
-						"note": "10 man",
-						"spellId": 59650
-					  },
-					  {
-						"ID": "250",
-						"epic": true,
-						"icon": "ability_mount_drake_twilight",
-						"itemId": 43954,
-						"mount": "Twilight Drake",
-						"name": "Sartharion",
-						"note": "25 man",
-						"spellId": 59571
-					  }
+					"title": "Fly to Coldarra"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "253",
+							"epic": true,
+							"icon": "ability_mount_drake_twilight",
+							"itemId": 43986,
+							"mount": "Black Drake",
+							"name": "Sartharion",
+							"note": "10 man",
+							"spellId": 59650
+						},
+						{
+							"ID": "250",
+							"epic": true,
+							"icon": "ability_mount_drake_twilight",
+							"itemId": 43954,
+							"mount": "Twilight Drake",
+							"name": "Sartharion",
+							"note": "25 man",
+							"spellId": 59571
+						}
+						],
+						"title": "Run Obsidian Sanctum"
+					}
 					],
-					"title": "Run Obsidian Sanctum"
-				  }
-				],
-				"title": "Fly to Wyrmrest Temple"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "264",
-						"epic": true,
-						"icon": "ability_mount_drake_proto",
-						"itemId": 44151,
-						"mount": "Blue Proto-Drake",
-						"name": "Skadi",
-						"note": "Heroic only",
-						"spellId": 59996
-					  }
+					"title": "Fly to Wyrmrest Temple"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "264",
+							"epic": true,
+							"icon": "ability_mount_drake_proto",
+							"itemId": 44151,
+							"mount": "Blue Proto-Drake",
+							"name": "Skadi",
+							"note": "Heroic only",
+							"spellId": 59996
+						}
+						],
+						"title": "Run Utgarde Pinnacle"
+					}
 					],
-					"title": "Run Utgarde Pinnacle"
-				  }
-				],
-				"title": "Fly to Howling Fjord"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "304",
-						"epic": true,
-						"icon": "inv_misc_enggizmos_03",
-						"itemId": 45693,
-						"mount": "Mimiron's Head",
-						"name": "Yogg-Saron",
-						"note": "Requires no watchers up",
-						"spellId": 63796
-					  }
+					"title": "Fly to Howling Fjord"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "304",
+							"epic": true,
+							"icon": "inv_misc_enggizmos_03",
+							"itemId": 45693,
+							"mount": "Mimiron's Head",
+							"name": "Yogg-Saron",
+							"note": "Requires no watchers up",
+							"spellId": 63796
+						}
+						],
+						"title": "Run Ulduar"
+					}
 					],
-					"title": "Run Ulduar"
-				  }
+					"title": "Fly to Storm Peaks"
+				}
 				],
-				"title": "Fly to Storm Peaks"
-			  }
+				"title": "Portal to Dalaran"
+			}
 			],
-			"title": "Portal to Dalaran"
+			"title": "Hearth to "
 		  },
 		  {
 			"capital": true,
-			"finalStep": "Hearthstone back to shrine",
 			"steps": [
 			  {
 				"steps": [
@@ -343,11 +346,10 @@
 				"title": "Portal to Hyjal"
 			  }
 			],
-			"title": "Portal to "
+			"title": "Hearth to "
 		  },
 		  {
 			"capital": true,
-			"finalStep": "Hearthstone back to shrine",
 			"steps": [
 			  {
 				"steps": [
@@ -403,11 +405,10 @@
 				"title": "Portal to Caverns of Time"
 			  }
 			],
-			"title": "Portal to "
+			"title": "Hearth to "
 		  },
 		  {
 			"capital": true,
-			"finalStep": "Hearthstone back to shrine",
 			"steps": [
 			  {
 				"steps": [
@@ -430,120 +431,124 @@
 				"title": "Portal to Deepholm"
 			  }
 			],
-			"title": "Portal to "
+			"title": "Hearth to "
 		  },
 		  {
-			"finalStep": "Hearthstone back to shrine",
-			"steps": [
-			  {
+		    "capital": true,
+			"steps": [ 
+		    {
 				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "185",
-						"epic": true,
-						"icon": "inv-mount_raven_54",
-						"itemId": 32768,
-						"mount": "Raven Lord",
-						"name": "Anzu",
-						"note": "Heroic only",
-						"spellId": 41252
-					  }
-					],
-					"title": "Run Sethekk Halls"
-				  }
-				],
-				"title": "Fly to Auchindoun"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "183",
-						"epic": true,
-						"icon": "inv_misc_summerfest_brazierorange",
-						"itemId": 32458,
-						"mount": "Ashes of Al'ar",
-						"name": "Kael'thas",
-						"spellId": 40192
-					  }
-					],
-					"title": "Run Tempest Keep"
-				  }
-				],
-				"title": "Fly to Netherstorm"
-			  },
-			  {
-				"steps": [
-				  {
+				{
 					"steps": [
-					  {
+					{
 						"bosses": [
-						  {
-							"ID": "213",
+						{
+							"ID": "185",
 							"epic": true,
-							"icon": "ability_mount_cockatricemountelite_white",
-							"itemId": 35513,
-							"mount": "White Hawkstrider",
-							"name": "Kael'thas",
+							"icon": "inv-mount_raven_54",
+							"itemId": 32768,
+							"mount": "Raven Lord",
+							"name": "Anzu",
 							"note": "Heroic only",
-							"spellId": 46628
-						  }
+							"spellId": 41252
+						}
 						],
-						"title": "Run Magister's Terrace"
-					  },
-					  {
-						"steps": [
-						  {
-							"bosses": [
-							  {
-								"ID": "419",
-								"epic": true,
-								"icon": "ability_druid_challangingroar",
-								"itemId": 69747,
-								"mount": "Amani Battle Bear",
-								"name": "Timed Reward",
-								"note": "Heroic only",
-								"spellId": 98204
-							  }
-							],
-							"title": "Run Zul'Aman"
-						  }
-						],
-						"title": "Fly to Ghostlands"
-					  },
-					  {
-						"steps": [
-						  {
-							"bosses": [
-							  {
-								"ID": "69",
-								"epic": true,
-								"icon": "ability_mount_undeadhorse",
-								"itemId": 13335,
-								"mount": "Deathcharger's Reins",
-								"name": "Rivendare",
-								"spellId": 17481
-							  }
-							],
-							"title": "Run Stratholme"
-						  }
-						],
-						"title": "Fly to Eastern Plaguelands"
-					  }
+						"title": "Run Sethekk Halls"
+					}
 					],
-					"title": "Portal to Isle of Quel'Danas"
-				  }
+					"title": "Fly to Auchindoun"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "183",
+							"epic": true,
+							"icon": "inv_misc_summerfest_brazierorange",
+							"itemId": 32458,
+							"mount": "Ashes of Al'ar",
+							"name": "Kael'thas",
+							"spellId": 40192
+						}
+						],
+						"title": "Run Tempest Keep"
+					}
+					],
+					"title": "Fly to Netherstorm"
+				},
+				{
+					"steps": [
+					{
+						"steps": [
+						{
+							"bosses": [
+							{
+								"ID": "213",
+								"epic": true,
+								"icon": "ability_mount_cockatricemountelite_white",
+								"itemId": 35513,
+								"mount": "White Hawkstrider",
+								"name": "Kael'thas",
+								"note": "Heroic only",
+								"spellId": 46628
+							}
+							],
+							"title": "Run Magister's Terrace"
+						},
+						{
+							"steps": [
+							{
+								"bosses": [
+								{
+									"ID": "419",
+									"epic": true,
+									"icon": "ability_druid_challangingroar",
+									"itemId": 69747,
+									"mount": "Amani Battle Bear",
+									"name": "Timed Reward",
+									"note": "Heroic only",
+									"spellId": 98204
+								}
+								],
+								"title": "Run Zul'Aman"
+							}
+							],
+							"title": "Fly to Ghostlands"
+						},
+						{
+							"steps": [
+							{
+								"bosses": [
+								{
+									"ID": "69",
+									"epic": true,
+									"icon": "ability_mount_undeadhorse",
+									"itemId": 13335,
+									"mount": "Deathcharger's Reins",
+									"name": "Rivendare",
+									"spellId": 17481
+								}
+								],
+								"title": "Run Stratholme"
+							}
+							],
+							"title": "Fly to Eastern Plaguelands"
+						}
+						],
+						"title": "Portal to Isle of Quel'Danas"
+					}
+					],
+					"title": "Fly to Shattrath"
+				}
 				],
-				"title": "Fly to Shattrath"
-			  }
-			],
 			"title": "Portal to Shattrath"
-		  },
+		  }
+		  ],
+		  "title": "Hearth to "
+	      },
 		  {
 			"capital": true,
-			"finalStep": "Hearthstone back to shrine",
 			"steps": [
 			  {
 				"steps": [
@@ -612,161 +617,169 @@
 					"title": "Fly to Stranglethorn Vale"
 				  }
 				],
-				"title": "Portal to Blasted Lands"
+			    "title": " Horde can take the Zepplin from Ogrimmar to grom’gol to save time"
 			  }
 			],
-			"title": "Portal to "
+			"title": "Hearth to "
 		  },
 		  {
+			"capital": true,
 			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "515",
-					"epic": true,
-					"icon": "inv_mushanbeastmount",
-					"itemId": 89783,
-					"mount": "Son of Galleon's Saddle",
-					"name": "Galleon",
-					"note": "Mount is bonus rollable",
-					"spellId": 130965
-				  }
-				],
-				"title": "Kill Galleon"
-			  }
-			],
-			"title": "Fly to Valley of the Four Winds"
-		  },
-		  {
-			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "473",
-					"epic": true,
-					"icon": "inv_pandarenserpentgodmount_black",
-					"itemId": 87771,
-					"mount": "Reins of the Heavenly Onyx Cloud Serpent",
-					"name": "Sha of Anger",
-					"note": "Mount is bonus rollable",
-					"spellId": 127158
-				  }
-				],
-				"title": "Kill Sha of Anger"
-			  }
-			],
-			"title": "Fly to Kun-Lai Summit"
-		  },
-		  {
-			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "533",
-					"epic": true,
-					"icon": "ability_mount_triceratopsmount_blue",
-					"itemId": 94228,
-					"mount": "Reins of the Cobalt Primordial Direhorn",
-					"name": "Oondasta",
-					"note": "Mount is bonus rollable",
-					"spellId": 138423
-				  }
-				],
-				"title": "Kill Oondasta"
-			  }
-			],
-			"title": "Fly to Isle of Giants"
-		  },
-		  {
-			"finalStep": "Hearthstone back to shrine",
-			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "478",
-					"epic": true,
-					"icon": "inv_celestialserpentmount",
-					"itemId": 87777,
-					"mount": "Reins of the Astral Cloud Serpent",
-					"name": "Elegon",
-					"spellId": 127170
-				  }
-				],
-				"title": "Run Mogu'shan Vaults"
-			  }
-			],
-			"title": "Fly to Kun-Lai Summit"
-		  },
-		  {
-			"finalStep": "Hearthstone back to shrine",
-			"steps": [
-			  {
+			{
 				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "542",
-						"epic": true,
-						"icon": "inv_pandarenserpentmount_lightning_blue",
-						"itemId": 95057,
-						"mount": "Reins of the Thundering Cobalt Cloud Serpent",
-						"name": "Nalak",
-						"note": "Mount is bonus rollable",
-						"spellId": 139442
-					  }
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "515",
+							"epic": true,
+							"icon": "inv_mushanbeastmount",
+							"itemId": 89783,
+							"mount": "Son of Galleon's Saddle",
+							"name": "Galleon",
+							"note": "Mount is bonus rollable",
+							"spellId": 130965
+						}
+						],
+						"title": "Kill Galleon"
+					}
 					],
-					"title": "Kill Nalak"
-				  },
-				  {
-					"bosses": [
-					  {
-						"ID": "531",
-						"epic": true,
-						"icon": "ability_mount_triceratopsmount",
-						"itemId": 93666,
-						"mount": "Spawn of Horridon",
-						"name": "Horridon",
-						"spellId": 136471
-					  },
-					  {
-						"ID": "543",
-						"epic": true,
-						"icon": "achievement_boss_ji-kun",
-						"itemId": 95059,
-						"mount": "Clutch of Ji-Kun",
-						"name": "Ji-Kun",
-						"spellId": 139448
-					  }
+					"title": "Fly to Valley of the Four Winds"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "473",
+							"epic": true,
+							"icon": "inv_pandarenserpentgodmount_black",
+							"itemId": 87771,
+							"mount": "Reins of the Heavenly Onyx Cloud Serpent",
+							"name": "Sha of Anger",
+							"note": "Mount is bonus rollable",
+							"spellId": 127158
+						}
+						],
+						"title": "Kill Sha of Anger"
+					}
 					],
-					"title": "Run Throne of Thunder"
-				  }
+					"title": "Fly to Kun-Lai Summit"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "533",
+							"epic": true,
+							"icon": "ability_mount_triceratopsmount_blue",
+							"itemId": 94228,
+							"mount": "Reins of the Cobalt Primordial Direhorn",
+							"name": "Oondasta",
+							"note": "Mount is bonus rollable",
+							"spellId": 138423
+						}
+						],
+						"title": "Kill Oondasta"
+					}
+					],
+					"title": "Fly to Isle of Giants"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "478",
+							"epic": true,
+							"icon": "inv_celestialserpentmount",
+							"itemId": 87777,
+							"mount": "Reins of the Astral Cloud Serpent",
+							"name": "Elegon",
+							"spellId": 127170
+						}
+						],
+						"title": "Run Mogu'shan Vaults"
+					}
+					],
+					"title": "Fly to Kun-Lai Summit"
+				},
+				{
+					"steps": [
+					{
+						"steps": [
+						{
+							"bosses": [
+							{
+								"ID": "542",
+								"epic": true,
+								"icon": "inv_pandarenserpentmount_lightning_blue",
+								"itemId": 95057,
+								"mount": "Reins of the Thundering Cobalt Cloud Serpent",
+								"name": "Nalak",
+								"note": "Mount is bonus rollable",
+								"spellId": 139442
+							}
+							],
+							"title": "Kill Nalak"
+						},
+						{
+							"bosses": [
+							{
+								"ID": "531",
+								"epic": true,
+								"icon": "ability_mount_triceratopsmount",
+								"itemId": 93666,
+								"mount": "Spawn of Horridon",
+								"name": "Horridon",
+								"spellId": 136471
+							},
+							{
+								"ID": "543",
+								"epic": true,
+								"icon": "achievement_boss_ji-kun",
+								"itemId": 95059,
+								"mount": "Clutch of Ji-Kun",
+								"name": "Ji-Kun",
+								"spellId": 139448
+							}
+							],
+							"title": "Run Throne of Thunder"
+						}
+						],
+						"title": "Portal to Isle of Thunder"
+					}
+					],
+					"title": "Fly to Townlong Steppes"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "559",
+							"epic": true,
+							"icon": "inv_mount_hordescorpiong",
+							"itemId": 104253,
+							"mount": "Kor'kron Juggernaut",
+							"name": "Garrosh Hellscream",
+							"note": "Mythic only",
+							"spellId": 148417
+						}
+						],
+						"title": "Run Siege of Orgrimmar"
+					}
+					],
+					"title": "Fly to Vale of the Eternal Blossoms"
+				}
 				],
-				"title": "Portal to Isle of Thunder"
-			  }
+				"title": "Portal to Jade Forest"
+			}
 			],
-			"title": "Fly to Townlong Steppes"
-		  },
-		  {
-			"finalStep": "Hearthstone back to shrine",
-			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "559",
-					"epic": true,
-					"icon": "inv_mount_hordescorpiong",
-					"itemId": 104253,
-					"mount": "Kor'kron Juggernaut",
-					"name": "Garrosh Hellscream",
-					"note": "Mythic only",
-					"spellId": 148417
-				  }
-				],
-				"title": "Run Siege of Orgrimmar"
-			  }
-			],
-			"title": "Fly to Vale of the Eternal Blossoms"
-		  },
+			"title": "Hearth to "
+		},
 		  {
 			"finalStep": "Hearthstone to Dalaran",
 			"steps": [
@@ -835,7 +848,6 @@
 			"title": "Portal to Garrison"
 		  },
 		  {
-			"finalStep": "Hearthstone to Dalaran",
 			"steps": [
 			  {
 				"bosses": [
@@ -865,7 +877,7 @@
 			"title": "Fly to Suramar"
 		  },
 		  {
-			"finalStep": "Hearthstone to Dalaran",
+			"finalStep":"Hearthstone to Dalaran",  
 			"steps": [
 			  {
 				"bosses": [
@@ -882,10 +894,9 @@
 				"title": "Run Tomb of Sargeras"
 			  }
 			],
-			"title": "Fly to Broke Shore"
+			"title": "Fly to Broken Shore"
 		  },
 		  {
-			"finalStep": "Hearthstone to Dalaran",
 			"steps": [
 			  {
 				"steps": [
@@ -920,100 +931,106 @@
 			"title": "Portal to Argus"
 		  },
 		  {
-			"finalStep": "Hearthstone to Zandalar / Kul'Tiras",
+			"capital": true,
 			"steps": [
-			  {
-				"bosses": [
-				  {
-					"ID": "1217",
-					"epic": true,
-					"icon": "achievement_dungeon_coinoperatedcrowdpummeler",
-					"itemId": 166518,
-					"mount": "G.M.O.D.",
-					"name": "High Tinker Mekkatorque",
-					"spellId": 289083
-				  },
-				  {
-					"ID": "1219",
-					"epic": true,
-					"icon": "spell_frost_summonwaterelemental_2",
-					"itemId": 166705,
-					"mount": "Glacial Tidestorm",
-					"name": "Jaina Proudmoore",
-					"note": "Mythic only",
-					"spellId": 289555
-				  }
+			{
+				"notes": "Set your hearth to Boralus/Dazar'alor",
+				"steps" : [
+				{
+					"bosses": [
+					{
+						"ID": "1217",
+						"epic": true,
+						"icon": "achievement_dungeon_coinoperatedcrowdpummeler",
+						"itemId": 166518,
+						"mount": "G.M.O.D.",
+						"name": "High Tinker Mekkatorque",
+						"spellId": 289083
+					},
+					{
+						"ID": "1219",
+						"epic": true,
+						"icon": "spell_frost_summonwaterelemental_2",
+						"itemId": 166705,
+						"mount": "Glacial Tidestorm",
+						"name": "Jaina Proudmoore",
+						"note": "Mythic only",
+						"spellId": 289555
+					}
+					],
+					"title": "Run Battle of Dazar'alor"
+				}
 				],
-				"title": "Run Battle of Dazar'alor"
-			  }
+				"title": "Portal to Zandalar / Kul'Tiras"
+			},
+			{
+				"finalStep": "Hearthstone to Zandalar / Kul'Tiras",
+				"steps": [
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "995",
+							"epic": true,
+							"icon": "inv_misc_food_wheat_02",
+							"itemId": 159842,
+							"mount": "Sharkbait's Favorite Crackers",
+							"name": "Harlan Sweete",
+							"note": "Mythic only",
+							"spellId": 254813
+						}
+						],
+						"title": "Run Freehold"
+					}
+					],
+					"title": "Walk to Tiragarde Sound"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "1040",
+							"epic": true,
+							"icon": "inv_armoredraptorundead",
+							"itemId": 159921,
+							"mount": "Mummified Raptor Skull",
+							"name": "Dazar, The First King",
+							"note": "Mythic only",
+							"spellId": 266058
+						}
+						],
+						"title": "Run King's Rest"
+					}
+					],
+					"title": "Walk to Zuldazar"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
+							"ID": "1053",
+							"epic": true,
+							"icon": "inv_archaeology_ogres_chimera_riding_harness",
+							"itemId": 160829,
+							"mount": "Underrot Crawg Harness",
+							"name": "Unbound Abomination",
+							"note": "Mythic only",
+							"spellId": 273541
+						}
+						],
+						"title": "Run The Underrot"
+					}
+					],
+					"title": "Walk to Nazmir"
+				}
+				],
+				"title": "Portal to Zandalar / Kul'Tiras"
+			}
 			],
-			"title": "Portal to Zandalar / Kul'Tiras"
-		  },
-		  {
-			"finalStep": "Hearthstone to Zandalar / Kul'Tiras",
-			"steps": [
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "995",
-						"epic": true,
-						"icon": "inv_misc_food_wheat_02",
-						"itemId": 159842,
-						"mount": "Sharkbait's Favorite Crackers",
-						"name": "Harlan Sweete",
-						"note": "Mythic only",
-						"spellId": 254813
-					  }
-					],
-					"title": "Run Freehold"
-				  }
-				],
-				"title": "Walk to Tiragarde Sound"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "1040",
-						"epic": true,
-						"icon": "inv_armoredraptorundead",
-						"itemId": 159921,
-						"mount": "Mummified Raptor Skull",
-						"name": "Dazar, The First King",
-						"note": "Mythic only",
-						"spellId": 266058
-					  }
-					],
-					"title": "Run King's Rest"
-				  }
-				],
-				"title": "Walk to Zuldazar"
-			  },
-			  {
-				"steps": [
-				  {
-					"bosses": [
-					  {
-						"ID": "1053",
-						"epic": true,
-						"icon": "inv_archaeology_ogres_chimera_riding_harness",
-						"itemId": 160829,
-						"mount": "Underrot Crawg Harness",
-						"name": "Unbound Abomination",
-						"note": "Mythic only",
-						"spellId": 273541
-					  }
-					],
-					"title": "Run The Underrot"
-				  }
-				],
-				"title": "Walk to Nazmir"
-			  }
-			],
-			"title": "Portal to Zandalar / Kul'Tiras"
+			"title": "Hearth to "
 		  }
 		],
 		"title": "Start off in "
