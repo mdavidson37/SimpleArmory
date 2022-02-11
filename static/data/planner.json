@@ -1083,6 +1083,26 @@
 					{
 						"bosses": [
 						{
+							"ID": "1250",
+							"epic": true,
+							"icon": "inv_alpacamount_brown",
+							"itemId": 174842,
+							"mount": "Mollie",
+							"name": "Dunegorger Kraulok",
+							"note": "Only up once every 6 weeks",
+							"spellId": 298367
+						}
+						],
+						"title": "Kill Dunegorger Kraulok"
+					}
+					],
+					"title": "Travel to Voldun"
+				},
+				{
+					"steps": [
+					{
+						"bosses": [
+						{
 							"ID": "1040",
 							"epic": true,
 							"icon": "inv_armoredraptorundead",
